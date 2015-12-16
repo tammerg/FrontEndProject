@@ -1,0 +1,16 @@
+body{
+  height: 100%;
+  width: 100%;
+}
+.img-dropbox {
+  position:absolute;
+  right: 25%;
+  bottom: 30%;
+  height: 50%;
+
+}
+form{
+  position: fixed;
+  bottom: 1px;
+  width: 80%;
+}
