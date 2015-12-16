@@ -16,8 +16,10 @@ Bootstrap
 
 
 ### API's Used
+https://market.mashape.com/lambda/face-recognition#!documentation
 -http://www.faceplusplus.com/
 -https://www.firebase.com/
+
 
 
 
